@@ -4,6 +4,7 @@ import { Skills } from "./component/skills/Skills.tsx";
 import { Education } from "./component/education/Education.tsx";
 import { Experience } from "./component/experience/Experience.tsx";
 import { Work } from "./component/work/Work.tsx";
+import { Footer } from "./component/footer/Footer.tsx";
 import './App.css'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Experience />
         <Work />
       </main>
+      <Footer />
     </>
   )
 }
