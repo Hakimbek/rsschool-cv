@@ -1,13 +1,17 @@
 import { Header } from "./component/header/Header.tsx";
 import { Home } from "./component/home/Home.tsx";
+import { Skills } from "./component/skills/Skills.tsx";
 import './App.css'
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
-      <Home />
-    </div>
+      <main>
+        <Home />
+        <Skills />
+      </main>
+    </>
   )
 }
 

@@ -1,0 +1,23 @@
+.skills-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 0 300px 200px 300px;
+}
+
+.skills-title {
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+}
+
+.skills-list li {
+  list-style: none;
+}

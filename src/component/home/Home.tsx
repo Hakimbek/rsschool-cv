@@ -3,7 +3,7 @@ import "./Home.css";
 
 export const Home = () => {
   return (
-    <main className="home-wrapper">
+    <section className="home-wrapper" id="home">
       <div className="home-about">
         <p>Software Engineer</p>
         <h2 className="home-title">
@@ -42,6 +42,6 @@ export const Home = () => {
           className="profile-photo"
         />
       </div>
-    </main>
+    </section>
   );
 }

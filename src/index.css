@@ -2,8 +2,13 @@
 
 :root {
   --dark: #222831;
+  --gray: #393E46;
   --green: #03C4A1;
   --white: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
