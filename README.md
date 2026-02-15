@@ -1,1 +1,0 @@
-https://Hakimbek.github.io/rsschool-cv/
