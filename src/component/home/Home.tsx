@@ -32,6 +32,11 @@ export const Home = () => {
             </a>
           </li>
           <li>
+            <a href="https://discordapp.com/users/khakimbakhramov" target="_blank">
+              <i className="bi bi-discord home-icon"></i>
+            </a>
+          </li>
+          <li>
             <a className="download-cv" href="https://drive.google.com/file/d/1VodNof__c32YZiHaKPb6fokO5kRqZIkN/view?usp=sharing" target="_blank">
               Download CV
             </a>
