@@ -21,3 +21,15 @@
 .skills-list li {
   list-style: none;
 }
+
+@media (max-width: 1800px) {
+  .skills-wrapper {
+    padding: 0 100px 200px 100px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .skills-wrapper {
+    padding: 0 30px 50px 30px;
+  }
+}

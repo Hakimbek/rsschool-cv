@@ -42,3 +42,25 @@
   text-decoration: none;
   color: inherit;
 }
+
+@media (max-width: 1800px) {
+  .header-wrapper {
+    padding: 0 100px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .header-wrapper {
+    justify-content: center;
+  }
+
+  .header-title {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .header-wrapper {
+    display: none;
+  }
+}

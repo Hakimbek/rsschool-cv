@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <footer className="footer-wrapper">
       <a href="https://rs.school/">
-        <img width={100} height={100} src={rsschool} alt="RS Shool Logo"/>
+        <img width={100} height={50} src={rsschool} alt="RS Shool Logo"/>
       </a>
       <a href="https://rs.school/courses/short-track">Short Track Course</a>
       <a href="https://github.com/Hakimbek">GitHub</a>
