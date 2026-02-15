@@ -26,7 +26,8 @@ export const Education = () => {
           <div className="education-course">AWS FUNDAMENTALS Course</div>
           <div>RS School</div>
           <div>
-            <a href="https://app.rs.school/certificate/rykoxmmb" target="_blank">Download Certificate</a>
+            <a href="https://app.rs.school/certificate/rykoxmmb" target="_blank">RS School Certificate</a>
+            <a href="https://www.credly.com/badges/55a33156-ccff-45b1-91a0-9859816b5721/public_url" target="_blank">AWS Certificate</a>
           </div>
         </li>
         <li>

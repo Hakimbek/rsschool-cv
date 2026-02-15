@@ -37,6 +37,7 @@
 }
 
 .education-list li a {
+  margin-right: 10px;
   display: inline-flex;
   align-items: center;
   padding: 5px 10px;
