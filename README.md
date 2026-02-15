@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Hakimbek.github.io/rsschool-cv/
