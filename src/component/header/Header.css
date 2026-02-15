@@ -1,0 +1,36 @@
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 300px;
+}
+
+.header-title {
+  cursor: pointer;
+  user-select: none;
+}
+
+.header-title span {
+  color: var(--green);
+}
+
+.header-nav ul {
+  display: flex;
+  gap: 40px;
+}
+
+.header-nav ul li {
+  padding: 5px 0;
+  list-style: none;
+  font-size: 18px;
+  font-weight: 400;
+  border-bottom: 2px solid transparent;
+  user-select: none;
+  cursor: pointer;
+}
+
+.header-nav ul li:hover {
+  color: var(--green);
+  border-bottom: 2px solid var(--green);
+  transition: 0.5s ease;
+}
