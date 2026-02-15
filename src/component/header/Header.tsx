@@ -7,7 +7,7 @@ export const Header = () => {
         <nav className="header-nav">
           <ul>
             <li>
-              <a className="header-link" href="#home">Home</a>
+              <a className="header-link" href="#about">About</a>
             </li>
             <li>
               <a className="header-link" href="#skills">Skills</a>
