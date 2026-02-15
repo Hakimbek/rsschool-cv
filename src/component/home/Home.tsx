@@ -31,6 +31,11 @@ export const Home = () => {
               <i className="bi bi-telegram home-icon"></i>
             </a>
           </li>
+          <li>
+            <a className="download-cv" href="https://drive.google.com/file/d/1VodNof__c32YZiHaKPb6fokO5kRqZIkN/view?usp=sharing" target="_blank">
+              Download CV
+            </a>
+          </li>
         </ul>
       </div>
       <div>

@@ -12,7 +12,9 @@ export const Header = () => {
             <li>
               <a className="header-link" href="#skills">Skills</a>
             </li>
-            <li>Education</li>
+            <li>
+              <a className="header-link" href="#education">Education</a>
+            </li>
             <li>Experience</li>
             <li>Work</li>
           </ul>

@@ -7,11 +7,11 @@
 
 .header-title {
   cursor: pointer;
+  transition: 0.5s ease-in-out;
 }
 
 .header-title:hover {
   color: var(--green);
-  transition: 0.5s ease;
 }
 
 .header-title span {
@@ -30,12 +30,12 @@
   font-weight: 400;
   border-bottom: 2px solid transparent;
   cursor: pointer;
+  transition: 0.3s ease-in-out;
 }
 
 .header-nav ul li:hover {
   color: var(--green);
   border-bottom: 2px solid var(--green);
-  transition: 0.5s ease;
 }
 
 .header-link {

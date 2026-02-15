@@ -5,9 +5,9 @@
   background-color: var(--gray);
   box-shadow: 0 0 40px 15px color-mix(in srgb, var(--green), transparent 80%);
   cursor: pointer;
+  transition: 0.5s ease-in-out;
 }
 
 .svg-icon:hover {
   fill: var(--green);
-  transition: 0.5s ease;
 }
